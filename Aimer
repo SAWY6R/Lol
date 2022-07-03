@@ -1,4 +1,4 @@
-while true do
+
 --getgenv().OldAimPart = "UpperTorso"
 --getgenv().AimPart = "UpperTorso" -- For R15 Games: {UpperTorso, LowerTorso, HumanoidRootPart, Head} | For R6 Games: {Head, Torso, HumanoidRootPart}  
   --  getgenv().AimlockKey = "q"
@@ -169,4 +169,3 @@ while true do
        end
     end
 end)
-end
