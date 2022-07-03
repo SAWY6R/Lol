@@ -1,4 +1,4 @@
- _G.aimLock = false
+ _G.aimLock = true;
 
 while  _G.aimLock == true do
 --getgenv().OldAimPart = "UpperTorso"
